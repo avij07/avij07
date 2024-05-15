@@ -6,19 +6,19 @@
 </p>
 
 ## About Me
-🔭 Completed work on **Help-Hive** (Complaint Management System).  
-🌱 Focusing on **enhancing my skills in data analysis and product management**.  
-👯 Keen on collaborating on **data analysis, product management, and innovative tech projects**.  
-💬 Discuss with me about **data-driven decision making, innovative product solutions, and efficient algorithms**.  
+🔭 Completed work on **Alex** (AI Personal Assistant).  
+🌱 Focusing on **Data Structures and Algorithms in Java**.  
+👯 Keen on collaborating in **web development and UI/UX design projects**.  
+💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.
 
-## My Work
+## My Resume
 <p align="center">
-  <a href="https://docs.google.com/document/d/1Ofr3SP3ZDAESPNlugQO2Nl2Prs8D-ei7ToGtAYOWpws/edit?usp=sharing">📄 Check out my resume.</a>
+  <a href="https://drive.google.com/file/d/1w5F1C3Z-RNnJnky8QsiJ1apquaayC2R2/view?usp=sharing">📄 Check out my resume.</a>
 </p>
 
 ## Let's Connect
 <p align="center">
-  <a href="https://twitter.com/avij07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>  
+  <a href="https://twitter.com/avi_j07" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>  
   <a href="mailto:avijaiswaljsr@outlook.com">
     <img src="https://github.com/Hridxyz/hridxyz/assets/96878347/0f991469-2940-4827-90aa-569d81b9dddb" height="40" width="40">
   </a>  
