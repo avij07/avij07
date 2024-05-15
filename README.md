@@ -2,7 +2,7 @@
 <h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Web Dev & Cloud Computing</h3>
 
 <p align="center">
-  <img src="https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html">
+  <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 </p>
 
 ## About Me
