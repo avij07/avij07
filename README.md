@@ -41,7 +41,7 @@
 
 ## GitHub Statistics
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avij07&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
   <br>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
 </p>
