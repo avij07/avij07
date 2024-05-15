@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
-<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Expert Data Analyst & Aspiring Product Manager</h3>
+<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Web Dev & Cloud Computing</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF4NHhuazN1eDhrbmxhcmZneXIxb3N6NXY1cWViMjJ4eDhha2NhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oSjA9HcU0iIXm/giphy.gif">
+  <img src="https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html">
 </p>
 
 ## About Me
