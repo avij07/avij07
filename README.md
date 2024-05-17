@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
-<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Web Dev & Cloud Computing</h3>
+<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Web Dev & Cloud Computing Enthusiast</h3>
 
 <p align="center">
   <img src="https://gifdb.com/images/high/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.webp">
 </p>
 
 ## About Me
-🔭 Completed work on **Alex** (AI Personal Assistant).  
+🔭 Completed work on **Maya** (AI Personal Assistant).  
 🌱 Focusing on **Data Structures and Algorithms in Java**.  
 👯 Keen on collaborating in **web development and UI/UX design projects**.  
 💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.
